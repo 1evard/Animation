@@ -1,2 +1,0 @@
-# Animation app
-![](animation.gif)
